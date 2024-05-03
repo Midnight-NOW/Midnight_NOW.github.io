@@ -1,6 +1,4 @@
----
-layout: default
----
+Title "Midnight_NETWORK"
 
 [Avatar Prefab](./VRChat/Avatar).
 
