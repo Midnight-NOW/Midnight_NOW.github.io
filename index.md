@@ -1,7 +1,7 @@
 # Header Midnight_NETWORK
 
 
-[World Prefab](./VRChat/World/Photos/Live).
+[World Photos](./Photos/Live).
 
 
 
