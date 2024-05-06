@@ -1,5 +1,5 @@
 # Header Midnight_NETWORK
 
-[Avatar Prefab](./VRChat/Avatar).
+[Avatar Prefab](./VRChat/Avatar/Prefabs).
 
-[World Prefab](./VRChat/World).
+[World Prefab](./VRChat/World/Prefabs).
