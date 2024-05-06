@@ -2,15 +2,15 @@
 <head><title>VRChat Remote Image Loading Assets</title></head>
 <body>
     <a href="captions.csv">Image Captions</a>
-    <img src="1.jpg" />
-    <img src="2.jpg" />
-    <img src="3.jpg" />
-    <img src="4.jpg" />
-    <img src="5.jpg" />
-    <img src="6.jpg" />
-    <img src="7.jpg" />
-    <img src="8.jpg" />
-    <img src="9.jpg" />
-    <img src="10.jpg" />
+    <img src="1.png" />
+    <img src="2.png" />
+    <img src="3.png" />
+    <img src="4.png" />
+    <img src="5.png" />
+    <img src="6.png" />
+    <img src="7.png" />
+    <img src="8.png" />
+    <img src="9.png" />
+    <img src="10.png" />
 </body>
 </html>
