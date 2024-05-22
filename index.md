@@ -6,6 +6,7 @@
 
 #World things
 
-[World Photos](./Photos/Live/Landscape).
+[World Photos Portrait](VRChat/Worlds/Photos/Live/Portrait).
+[World Photos Landscape](VRChat/Worlds/Photos/Live/Landscape).
 
 [World Prefab](./VRChat/World/Prefabs).
