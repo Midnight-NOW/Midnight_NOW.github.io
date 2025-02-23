@@ -10,4 +10,4 @@
 
 [World Photos Landscape](VRChat/Worlds/Photos/Live/Landscape)
 
-[World Prefab](./VRChat/World/Prefabs).
+[World Prefab](./VRChat/Worlds/Prefabs).
