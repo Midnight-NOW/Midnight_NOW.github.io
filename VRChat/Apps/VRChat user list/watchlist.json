@@ -1,11 +1,4 @@
 {
-    "usr_06bc5b8b-aa29-4e83-8683-0c5bbaad4692": {
-        "username": "Byakko Howaito",
-        "reasons": [
-            "Nuisance"
-        ],
-        "date_added": "2025-05-04"
-    },
     "usr_b0a463b2-a2b7-4f0d-9e9c-92a538500abc": {
         "username": "",
         "reasons": [
@@ -92,12 +85,5 @@
             "Would"
         ],
         "date_added": "2025-05-04"
-    },
-    "usr_59f1d90a-5059-43d1-8570-c8ccdcacc4f2": {
-        "username": "HuskyVDB",
-        "reasons": [
-            "Dumb"
-        ],
-        "date_added": "2025-05-05"
     }
 }
