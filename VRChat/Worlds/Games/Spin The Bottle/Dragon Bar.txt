@@ -1,7 +1,7 @@
 Drink 1 for each pair of horns your Avatar has.
 Drink if you have a tail.
-Drink if you're in a female Avatar.
-Drink if you're in a male Avatar.
+female Avatar Drink
+male Avatar Drink
 Drink 2 if your main Colour is RED
 Drink 2 if your main Colour is BLUE
 Drink 2 if your main Colour is GREEN
@@ -10,15 +10,57 @@ Drink 2 if your main Colour is PURPLE
 Drink 2 if your main Colour is WHITE
 Drink 2 if your main Colour is BLACK
 Drink 2 if your main Colour is ORANGE
-Drink if your a Mute.
-Drink if your a NOT Mute.
-Drink 2 if your a Cat.
-Drink 2 if your a Wolf.
-Drink 2 if your a Dragon.
-Drink 2 if your a Bunny/Rabbit.
-Drink 2 if your a Elf.
-Drink 2 if your a Moth.
-Drink 2 if your a Dog.
-Drink 2 if your a Rat/Mouse.
-Drink 2 if your a Robot.
-Drink 2 if your a Horse.
+Drink if your a Mute
+Drink if your a NOT Mute
+Drink 2 if your a Cat
+Drink 2 if your a Wolf
+Drink 2 if your a Dragon
+Drink 2 if your a Bunny/Rabbit
+Drink 2 if your a Elf
+Drink 2 if your a Moth
+Drink 2 if your a Dog
+Drink 2 if your a Rat/Mouse
+Drink 2 if your a Robot
+Drink 2 if your a Horse
+Drink 2 if your a Fish
+Drink 2 if your a Bird
+Drink 2 if you have a Collar (IN VRC)
+Drink 5 if you have a Collar (IRL)
+Pick a player to drink 1
+Give out 4 drinks to players of your choice
+Give out 6 drinks to players of your choice
+Give out 8 drinks to players of your choice
+Give out 10 drinks to a player of your choice
+Name a Movie, anyone who knows it Drink
+Chug for 5 seconds
+Last to put their hands in the air, drinks 3
+Last to Sit on down, drinks 3
+Spinner Drinks 5
+Spinner Drinks 4
+Spinner Drinks 3
+Spinner Drinks 2
+Spinner Drinks 1
+Drink if you’ve ever rage-quit a game
+Drink if you’ve fallen asleep in VR
+Pet owners drink
+Drink 4 if you've ever had a dedicated VR room
+Drink 5 if your birthday is this month
+Drink 5 if your birthday is during Christmas month
+Drink 5 if your birthday is during Easter month
+Drink 5 if your birthday is during Halloween month
+Half Bodys drink 2
+Full Bodys drink 2
+Half Bodys drink 5
+Full Bodys drink 5
+Last to respawn and get back, drinks 3
+Drink if you have VRChat Plus
+Drink if you DON'T have VRChat Plus
+Drink if you played VRChat before 2018
+Drink 6 if you've been caught! >w<
+Do you know the way? If you do, drink 5
+Drink 3 if you have created an Avatar
+Drink 3 if you have created a World
+Drink 5 if you have crashed this month
+Drink 5 if you have been banned  (Temp/Pema)
+Spinner Give out 6 if you have been kicked from a world
+Last to say "FISH!!" Drinks...  FISH!! (Chug for 10)
