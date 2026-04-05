@@ -1,0 +1,24 @@
+Drink 1 for each pair of horns your Avatar has.
+Drink if you have a tail.
+Drink if you're in a female Avatar.
+Drink if you're in a male Avatar.
+Drink 2 if your main Colour is RED
+Drink 2 if your main Colour is BLUE
+Drink 2 if your main Colour is GREEN
+Drink 2 if your main Colour is PINK
+Drink 2 if your main Colour is PURPLE
+Drink 2 if your main Colour is WHITE
+Drink 2 if your main Colour is BLACK
+Drink 2 if your main Colour is ORANGE
+Drink if your a Mute.
+Drink if your a NOT Mute.
+Drink 2 if your a Cat.
+Drink 2 if your a Wolf.
+Drink 2 if your a Dragon.
+Drink 2 if your a Bunny/Rabbit.
+Drink 2 if your a Elf.
+Drink 2 if your a Moth.
+Drink 2 if your a Dog.
+Drink 2 if your a Rat/Mouse.
+Drink 2 if your a Robot.
+Drink 2 if your a Horse.
