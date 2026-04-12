@@ -34,7 +34,7 @@ Give out 10 drinks to a player of your choice
 Name a Movie, anyone who knows it Drink
 Chug for 5 seconds
 Last to put their hands in the air, drinks 3
-Last to Sit down, drinks 3
+Last to Sit on down, drinks 3
 Spinner Drinks 5
 Spinner Drinks 4
 Spinner Drinks 3
@@ -64,3 +64,66 @@ Drink 5 if you have crashed this month
 Drink 5 if you have been banned  (Temp/Pema)
 Spinner Give out 6 if you have been kicked from a world
 Last to say "FISH!!" Drinks...  FISH!! (Chug for 10)
+Girls drink
+Guys drink
+Everyone drink!
+Drink if you have animal ears
+NSFW Avis drink
+Quest Headsets drink
+Vive Headsets drink
+Index Headsets drink
+Eboys drink
+Femboys drink
+Egirls Drink
+Furrys drink
+Drink if you're not straight
+Drink if you're straight
+Drink if you know the world creator
+Drink if you've been pegged
+Drink if you've been to 2 or more countries
+Drink if you're from the southern hemisphere
+Drink if you're from the northern hemisphere
+Drink 1 for every person in the room you'd lewd
+Drink if your crush/person you like is playing too
+Drink if you like pineapple on pizza
+Drink if you do not like ice in your soda
+Drink if you're drinking rum
+Drink if you're drinking whiskey
+Drink if you're drinking vodka
+Drink if you're drinking beer
+Give a drink if you've played D&D
+Drink if you've ever commissioned art
+Drink if you know how to program
+Drink 3 if you have blonde hair
+Drink 3 if you have redhead hair
+Drink 3 if you have black hair
+Drink 3 if you have blue hair
+Drink 3 if you have brown hair
+Drink 3 if you have pink hair
+Shortest username drinks
+Longest username drinks
+Drink 2 if you have a steering wheel for games
+Drink if you've driven or sailed a boat, yar!
+Drink if you've been on a cruise
+Drink if you live in the UK
+Drink if you live in the USA
+Drink if your knees click
+Drink 1 per piercing you have
+Drink if you have tattoos
+Drink if your hair is dyed
+Drink if you have a piercing
+Drink if you have no peircings or tattoos
+Drink if you haven't gotten laid in over a year
+Drink if you're a virgin
+Drink if your hair goes past your butt
+Give a drink if you have a piercing/(s) on your sensitive bits
+Give 1 for every irl sexual partner you've had
+Drink 1 for every irl sexual partner you've had
+Drink 2 if you've watched MLP
+Drink if you have pirated photoshop
+Drink if you have an adobe subscription
+Take drinks equal to the final number of your birth year
+Give drinks equal to the final number of your birth year
+Drink if you stream on twitch
+Drink if you own a 'retro' console
+Inverse: Spin again and invert any give/take.
