@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PiShock Rules & Access</title>
+    <title>PiShock | Usage Rules</title>
     <style>
         body {
-            font-family: sans-serif;
-            background-color: #121212;
+            background-color: #0a0a0a;
             color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -16,42 +16,60 @@
             margin: 0;
             text-align: center;
         }
-        .container {
-            max-width: 500px;
-            padding: 20px;
-            border: 2px solid #ff4b2b;
+        .card {
+            background: #151515;
+            padding: 40px;
             border-radius: 15px;
-            background: #1e1e1e;
+            border: 2px solid #ff4b2b;
+            box-shadow: 0 0 20px rgba(255, 75, 43, 0.3);
+            max-width: 400px;
+            width: 90%;
         }
-        h1 { color: #ff4b2b; }
-        ul { text-align: left; line-height: 1.6; }
+        h1 { color: #ff4b2b; margin-bottom: 10px; }
+        p { color: #bbb; line-height: 1.5; }
+        .rules {
+            text-align: left;
+            background: #1e1e1e;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            font-size: 0.9rem;
+        }
+        ul { padding-left: 20px; margin: 0; }
+        li { margin-bottom: 8px; }
         .btn {
-            display: inline-block;
-            margin-top: 20px;
-            padding: 15px 30px;
+            display: block;
             background: #ff4b2b;
             color: white;
             text-decoration: none;
+            padding: 15px;
+            border-radius: 8px;
             font-weight: bold;
-            border-radius: 5px;
-            transition: 0.3s;
+            transition: transform 0.2s, background 0.2s;
         }
-        .btn:hover { background: #ff416c; transform: scale(1.05); }
+        .btn:hover {
+            background: #ff6a50;
+            transform: scale(1.05);
+        }
     </style>
 </head>
 <body>
 
-<div class="container">
-    <h1>⚠️ Warning & Rules</h1>
-    <p>By clicking the button below, you agree to the following:</p>
-    <ul>
-        <li>**You have to be in the same world:** This is for if im down and cant take it, STOP Sending anymore!! .</li>
-        <li>**No Spamming:** Let me have a rest time.</li>
-        <li>**Max Intensity:** Dont run it all the time at 100%.</li>
-    </ul>
-    
-    <a href="https://pishock.com/#/LinkControl?id=53a9dfa8-bbdf-4546-bdb0-4537237c7871" class="btn">I AGREE - ENTER PISHOCK</a>
-</div>
+    <div class="card">
+        <h1>⚠️ WARNING</h1>
+        <p>You are about to access my PiShock control panel. Please follow these rules:</p>
+        
+        <div class="rules">
+            <ul>
+                <li><strong>No Spamming:</strong> Wait 10s between zaps.</li>
+                <li><strong>Max Intensity:</strong> Do not go over 30%.</li>
+                <li><strong>Safe Word:</strong> If I say "Stop," you must stop.</li>
+                <li><strong>Vibrate Only:</strong> If I am in a public setting.</li>
+            </ul>
+        </div>
+
+        <a href="https://pishock.com/#/LinkControl?id=53a9dfa8-bbdf-4546-bdb0-4537237c7871" class="btn">I AGREE - ENTER PISHOCK</a>
+    </div>
 
 </body>
 </html>
